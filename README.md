@@ -1,4 +1,4 @@
 # linear-search
-Linear Search in Java
+Linear Search in Java.
 
 
